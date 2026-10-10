@@ -1,0 +1,5 @@
+backend/.env
+backend/.neon
+**/node_modules/
+**/.env
+**/.neon
