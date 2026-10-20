@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 :root {
-  --cms-navy: #17365d;
-  --cms-navy-dark: #102b4d;
-  --cms-background: #f3f6fa;
+  --cms-navy: #102a43;
+  --cms-navy-dark: #0b2034;
+  --cms-background: #f5f7fa;
   --cms-surface: #ffffff;
-  --cms-gold: #b58a45;
-  --cms-ink: #1f2937;
+  --cms-gold: #c99a2e;
+  --cms-ink: #243447;
 }
 
 @theme inline {

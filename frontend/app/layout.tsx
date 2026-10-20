@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Campus CMS | College Management System",
+  title: "Admin Dashboard | Campus CMS",
   description:
-    "A clear, connected workspace for students, courses, faculty, and attendance.",
+    "Manage students, faculty, courses, enrollments, and attendance from one clear campus workspace.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
